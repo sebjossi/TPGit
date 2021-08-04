@@ -1,0 +1,34 @@
+.title {
+  font-family: 'Open Sans', sans-serif;
+  color: #555;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: -3px;
+  line-height: 1;
+  text-shadow: #EDEDED 3px 2px 0;
+  position: relative;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#message{
+  font-family: 'Open Sans', sans-serif;
+  color: red;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: -3px;
+  line-height: 1;
+  text-shadow: #EDEDED 3px 2px 0;
+  position: relative;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.pyramideRow{
+	display:flex;
+	justify-content:center;
+}
