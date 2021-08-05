@@ -24,5 +24,6 @@ function generate(){
 
 //Supprime la pyramide
 function reset(){
-	
+	document.getElementById("output").innerHTML = "";
+	document.getElementById("message").innerHTML = "";
 }
