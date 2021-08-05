@@ -22,7 +22,7 @@ function generate(){
 	document.getElementById("PyramideWidth").value = "";
 }
 
-//Supprime la pyramide
+//Supprime la pyramidouuu
 function reset(){
 	document.getElementById("output").innerHTML = "";
 	document.getElementById("message").innerHTML = "";
